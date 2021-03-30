@@ -1,0 +1,12 @@
+
+.button {
+  width: 400px;
+  height: 200px;
+  background-color: cyan;
+  font-size: 48px;
+  color: white;
+}
+
+.button:hover {
+ background-color: lime;
+}
